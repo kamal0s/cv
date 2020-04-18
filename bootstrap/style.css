@@ -1,0 +1,201 @@
+#HeaderSection {
+  background-image: radial-gradient(#e84393, #d63031);
+  width: 100%;
+
+
+
+}
+
+.TextHeader {
+  padding: 15% 15% 10% 15%;
+}
+
+.testdiv {
+  background-image: linear-gradient(#ff7675aa, #fab1a0), url("img/app.png");
+}
+
+.h1style {
+  font-family: Satisfy;
+  color: white;
+  font-size: 700%;
+}
+
+.h2style {
+  font-family: Satisfy;
+  color: white;
+  font-size: 250%;
+}
+
+
+
+.cor-item {
+  height: 95vh;
+}
+
+.container {
+  max-width: 960px;
+}
+
+.imgstyle {
+  width: 77%;
+
+  position: absolute;
+
+}
+@media only screen and (max-width:700px) and (min-width:580px) {
+  .h1style {
+    font-family: Satisfy;
+    color: white;
+    font-size: 200%;
+  }
+
+  .h2style {
+    font-family: Satisfy;
+    color: white;
+    font-size: 150%;
+  }
+
+  .imgstyle {
+    width: 77%;
+    opacity: 0.99;
+    position: absolute;
+  }
+
+}
+
+
+
+@media only screen and (max-width:900px) and (min-width:700px){
+
+  .h1style {
+    font-family: Satisfy;
+    color: white;
+    font-size: 300%;
+  }
+
+  .h2style {
+    font-family: Satisfy;
+    color: white;
+    font-size: 200%;
+  }
+
+  .imgstyle {
+    width: 77%;
+    opacity: 0.99;
+    position: absolute;
+  }
+
+}
+
+@media only screen and (max-width:1200px) and (min-width:900px) {
+  .h1style {
+    font-family: Satisfy;
+    color: white;
+    font-size: 300%;
+  }
+
+  .cor-item {
+    height: 80vh;
+  }
+
+  .h2style {
+    font-family: Satisfy;
+    color: white;
+    font-size: 250%;
+  }
+  .imgstyle {
+    width: 70%;
+    opacity: 0.99;
+    position: absolute;
+  }
+
+
+}
+
+@media only screen and (max-width:580px) {
+  .h1style {
+    font-family: Satisfy;
+    color: white;
+    font-size: 350%;
+
+
+  }
+
+  .cor-item {
+    height: auto;
+  }
+
+   .TextHeader{
+
+   text-align: center;
+   z-index: 0;
+
+
+   }
+  .h2style {
+    font-family: Satisfy;
+    color: white;
+    font-size: 200%;
+  }
+
+  .centerimage{
+    text-align: center;
+    padding: 0px;
+    z-index: 0;
+
+  }
+
+  .imgstyle {
+    width: 90%;
+    opacity: 0.99;
+    position: relative;
+    transform: rotate(-9.5deg);
+  }
+  #HeaderSection {
+    height: 100vh;
+  }
+
+  #infosection {
+    padding :8% 4% 3% 3%;
+    z-index: 1;
+    background-color: white;
+    position: relative;
+    bottom: : 30%;
+
+  }
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-family: Satisfy;
+}
+
+.col-12 {
+
+padding: 10% 15%;
+
+}
+
+.carousel-div {
+
+
+}
+
+.cor-item {
+  background-color: black;
+  background-size: contain;
+  color: black;
+
+  width: 100%;
+
+
+}
+
+#infosection {
+  padding :8% 4% 3% 3%;
+
+  z-index: 1;
+  background-color: white;
+
+}
